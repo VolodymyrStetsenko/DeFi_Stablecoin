@@ -270,7 +270,15 @@ For questions, support or collaborations, reach out via:
 -   **X (Twitter)**: [@carstetsen](https://twitter.com/carstetsen )
 -   **Telegram**: [Zero2Auditor](https://t.me/Zero2Auditor )
 -   **LinkedIn**: [Volodymyr Stetsenko](https://www.linkedin.com/in/володимир-стеценко-b9b81b265/ )
--   **GitHub**: [Cyfrin/foundry-defi-stablecoin-cu](https://github.com/Cyfrin/foundry-defi-stablecoin-cu/blob/main/README.md )
+
+
+
+## Course Repository
+
+This project is based on the official Cyfrin Updraft course. The original repository can be found here:
+
+-   [foundry-defi-stablecoin-cu](https://github.com/Cyfrin/foundry-defi-stablecoin-cu )
+
 
   
 
@@ -278,3 +286,4 @@ For questions, support or collaborations, reach out via:
 # License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for full details.
+
